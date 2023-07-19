@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhvani Patel</h1>
 <h3 align="center">A passionate computer science student at the University of Toronto :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhvani2504&label=Profile%20views&color=5f55ec&style=flat" alt="dhvani2504" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhvani2504&label=Profile%20views&color=5f55ec&style=flat" alt="dhvani2504" /> </p>
 
 - 👩🏻‍💻 All of my projects are available at [https://dhvani2504.github.io/](https://dhvani2504.github.io/)
 
