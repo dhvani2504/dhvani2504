@@ -14,4 +14,4 @@
 
 
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhvani2504&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dhvani2504" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhvani2504&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dhvani2504" /></p>
