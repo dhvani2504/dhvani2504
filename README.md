@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhvani Patel</h1>
-<h3 align="center">A passionate student pursuing a Bachelor of Science in Computer Science at the University of Toronto :)</h3>
+<h3 align="center">A passionate computer science student at the University of Toronto :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhvani2504&label=Profile%20views&color=5f55ec&style=flat" alt="dhvani2504" /> </p>
 
