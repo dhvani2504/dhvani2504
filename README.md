@@ -1,4 +1,3 @@
-[![MasterHead](https://images.alphacoders.com/116/thumb-1920-1169862.jpg)](https://dhvani2504.github.io/)
 <h1 align="center">Hi 👋, I'm Dhvani Patel</h1>
 <h3 align="center">A passionate computer science student at the University of Toronto :)</h3>
 
