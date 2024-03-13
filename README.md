@@ -31,11 +31,9 @@
 
 </div>
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhvani2504&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhvani2504&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dhvani2504" /></p>
+</div>
 
 ###
 
