@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhvani Patel</h1>
 <h3 align="center">A passionate computer science student at the University of Toronto :)</h3>
 
+<br>
+
 <p align=center>- 🤝 Connect with me on LinkedIn www.linkedin.com/in/dhvanip25
 
 <p align=center>- 👩🏻‍💻 All of my projects are available at https://dhvani2504.github.io/
@@ -16,6 +18,8 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
+
+<br>
 
 ###
 
