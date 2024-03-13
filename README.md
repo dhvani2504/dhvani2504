@@ -32,7 +32,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg" />
+</p>
 
 ###
 
