@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devyujie/devyujie/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg" />
 
 ###
 
