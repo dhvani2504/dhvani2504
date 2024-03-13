@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dhvani2504/dhvani2504/output/snake.svg" alt="Snake animation" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" alt="Snake animation" />
 
 ###
 
