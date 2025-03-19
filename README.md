@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhvani Patel</h1>
-<h3 align="center">A passionate computer science student at the University of Toronto :)</h3>
+<h3 align="center">A Computer Science Student at the University of Toronto</h3>
 
 <br>
 
